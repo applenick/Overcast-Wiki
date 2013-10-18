@@ -19,7 +19,8 @@
     <div class = "container">
       <div class ="jumbotron">
         <h1>Ranks</h1>
-        <p>All the ranks on OCN. (Written by goodbobul)</p>
+        <p>All the ranks and what they mean on OCN</p>
+          <small>Written by goodbobul, edited by AppleNick</small>
       </div>
     </div>
     <div class="container">
@@ -39,7 +40,7 @@
         <div class="media-body">
           <h4 class="media-heading">Decanus</h4>
           <p>You can buy this badge <a href="http://oc.tc/shop">here</a>. It is $5 for 30 days of perks. It gives you a black badge on the website but no asterisk in game.</p>
-          <p>Example: <a href="http://i.imgur.com/1Bblvla.png">bleangamer</a></p>
+          <p>Example: <a href="http://f.cl.ly/items/003x2E0d22022L1E1R17/Screen%20Shot%202013-10-17%20at%201.43.25%20AM.png">De</a></p>
         </div>
       </div>
     </div>
@@ -69,7 +70,7 @@
         <div class="media-body">
           <h4 class="media-heading">Centurion</h4>
           <p>You can buy this badge <a href="http://oc.tc/shop">here</a>. This gives you 180 days for $25. It also gives a yellow badge on the website and a yellow asterisk in game. The perks that donors got before the donor update are included in this package.</p>
-          <p>Example: <a href="http://i.imgur.com/kIaO0nJ.png">Magic_Mat</a></p>
+          <p>Example: <a href="http://f.cl.ly/items/281v2F3Q0012123J3n3k/Screen%20Shot%202013-10-17%20at%201.41.39%20AM.png">bleangamer</a></p>
         </div>
       </div>
     </div>
@@ -120,7 +121,7 @@
         <div class="media-body">
           <h4 class="media-heading">Developer</h4>
           <p> This is someone who have helped with the coding of the plugin (PGM) or the website. They have a purple badge. They do not get an in-game asterisk.</p>
-          <p>Example: <a href="https://oc.tc/Anxuiz">Anxuiz</a></p>
+          <p>Example: <a href="https://oc.tc/iamramsey">iamramsey</a></p>
         </div>
       </div>
     </div>
